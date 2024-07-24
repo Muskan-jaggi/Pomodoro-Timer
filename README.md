@@ -19,6 +19,6 @@ This **Pomodoro Timer** application helps manage work and break intervals using 
 **Progress Indicator:** Displays checkmarks for completed sessions.
 
 **UI Components:**
-Canvas with a tomato image
-Timer display
+Canvas with a tomato image,
+Timer display and
 Labels and buttons for controlling the timer
